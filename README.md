@@ -10,6 +10,8 @@
 An awesome list of purely UI components with React, Vue, Angular and friends.  
 At the end of all things, there is also a [spiderman-pangolin](#the-majestic-spiderman-pangolin). It's awesome.
 
+This project is a work in progress, so feel free to jump in and add your own contributions, fixes and suggestions.
+
 ## Contents
 
  - [Component power tools](#component-power-tools)  
@@ -22,6 +24,7 @@ At the end of all things, there is also a [spiderman-pangolin](#the-majestic-spi
  - [Angular components](#angular-components)  
     - [Angular UI libraries](#angular-component-libraries)  
     - [Angular UI components](#angular-ui-components)  
+- [Web components](#web-components)
  - [Resources](#resources)  
 
 
@@ -1211,7 +1214,7 @@ Inspired-by and built on top of [awesome-angular](https://github.com/gdi2290/awe
 - A team of awesome idea and content contributors.
 - [awesome-react](https://github.com/enaqx/awesome-react).
 - [awesome-react-components](https://github.com/brillout/awesome-react-components).
-- awesome-vue](https://github.com/vuejs/awesome-vue).
+- [awesome-vue](https://github.com/vuejs/awesome-vue).
 - [awesome-angular](https://github.com/gdi2290/awesome-angular).
 - [awesome-angular-components](https://github.com/brillout/awesome-angular-components).
 - [9 React Libraries and Tools to Master your Component Workflow](https://blog.bitsrc.io/9-tools-and-libraries-to-boost-your-react-component-workflow-6ff4b49511c2).
